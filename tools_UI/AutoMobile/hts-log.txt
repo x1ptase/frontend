@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 04 Oct 2025 16:56:30 at https://demo.themewinter.com/html/automobil/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.themewinter.com/html/automobil/ -O1 "D:\GIT\frontend\tools_UI\AutoMobile" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/owl.video.play.png (from https://demo.themewinter.com/html/automobil/css/owlcarousel.min.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/arrow-up.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/x.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/tick.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/cal2.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/time2.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/cal3.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+16:57:18	Error: 	"Not Found" (404) at link https://demo.themewinter.com/html/automobil/css/imgs/time3.png (from https://demo.themewinter.com/html/automobil/css/contactme/contactme-1.3.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 134 links scanned, 125 files written (8269756 bytes overall) [5935020 bytes received at 123646 bytes/sec], 3602417 bytes transferred using HTTP compression in 63 files, ratio 32%, 44.6 requests per connection
+(8 errors, 0 warnings, 0 messages)
