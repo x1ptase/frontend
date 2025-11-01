@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.exptheme.com	TRUE	/pizzeria/	FALSE	1999999999	wp_woocommerce_session_18491e6b0c0558f70be1ee002fa2ac06	t_60dcdad97052b550bdbbeab0846d5b%7C%7C1762159881%7C%7C1762156281%7C%7Ca18391502a6c2795c6ea6f67a85d1743
+demo.exptheme.com	TRUE	/pizzeria/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.exptheme.com	TRUE	/pizzeria/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+demo.exptheme.com	TRUE	/pizzeria/	FALSE	1999999999	woocommerce_cart_hash	50e0cbb37e17e3473d3965eb02b6dd6f
+
